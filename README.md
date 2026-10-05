@@ -2,13 +2,9 @@
 
 ## AI / GenAI Technical Project Manager | AI Agent Solutions
 
-Project Manager and technology professional with 20 years of experience
-in enterprise application delivery, data platforms, analytics, SQL,
-and cross-functional technology initiatives.
+Project Manager and technology professional with 20 years of experience in enterprise application delivery, data platforms, analytics, SQL, and cross-functional technology initiatives.
 
-Currently focused on AI / GenAI application development and Agentic AI,
-combining enterprise delivery leadership with hands-on experience in
-Python, LLMs, Snowflake, LangGraph, MCP, RAG, and AI workflows.
+Hands-on experience developing AI-assisted applications that combine LLMs with enterprise data, deterministic business logic, controlled tools, workflow orchestration, validation, and human oversight.
 
 ## AI / GenAI Focus
 
@@ -31,12 +27,11 @@ Python, LLMs, Snowflake, LangGraph, MCP, RAG, and AI workflows.
 
 ## Selected AI Projects
 
-### 1. Agentic Data & Reporting Assistant
+### Agentic Data & Reporting Assistant
 
-An AI-assisted reporting solution that connects natural-language
-management questions with structured enterprise data.
+AI-assisted reporting solution connecting natural-language management questions with structured enterprise project and reporting data.
 
-Key capabilities:
+**Key capabilities:**
 
 - Natural-language-to-SQL
 - Snowflake data retrieval
@@ -44,11 +39,11 @@ Key capabilities:
 - LLM-generated management explanations
 - Structured response validation
 - Python / FastAPI
-- n8n orchestration
+- n8n
 
-### 2. RiskLens — AI-Powered Project Risk Management Platform
+### RiskLens — AI-Powered Project Risk Management Platform
 
-An AI-assisted project risk management platform combining:
+AI-assisted project risk management platform combining:
 
 - React
 - TypeScript
